@@ -1,5 +1,5 @@
 # Exercício 04 - Construção de funções com o JavaScript
-Neste exercício você vai praticar a construção de funções com o JavaScript.<br><br>
+Neste exercício você vai praticar a construção de funções com o JavaScript.<br>
 
 Você deve criar uma função chamada "calculaArea".<br>
 Ela deverá receber dois parâmetros:<br>
