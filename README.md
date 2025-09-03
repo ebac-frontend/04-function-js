@@ -5,6 +5,7 @@ Você deve criar uma função chamada "calculaArea".<br>
 Ela deverá receber dois parâmetros:<br>
 1) base<br>
 2) altura<br><br>
+
 Deverá retornar a multiplicação destes fatores.<br>
 
 Resposta da atividade:<br><br>
